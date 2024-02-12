@@ -1,3 +1,7 @@
+/**
+ * ESTE COMPOÑENTE NON ESTÁ A SER UTILIZADO
+ */
+
 import React,{useState,useEffect} from 'react';
 import Lista from './Lista';
 
